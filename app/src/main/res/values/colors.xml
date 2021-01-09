@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#008577</color>
-    <color name="yellow">#DBCA33</color>
+    <color name="yellow">#FDEC00</color>
     <color name="black">#0C0C0C</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="colorPrimaryDark">#DBCA33</color>
+    <color name="colorPrimaryDark">#fec821</color>
     <color name="trflogo_black">#0B0A0B</color>
     <color name="white">#ffffff</color>
     <color name="color1">#1B51D8</color>
@@ -17,11 +17,12 @@
     <color name="color8">#17E9E1</color>
     <color name="color9">#0019AA</color>
     <color name="color10">#FABD06</color>
-    <color name="color11">#F00050</color>
+    <color name="color11">#F00050</color>m
     <color name="color12">#4409AC</color>
     <color name="color13">#022B26</color>
     <color name="color14">#26045F</color>
     <color name="color15">#79260C</color>
+    <color name="grey">#3C3A3A</color>
 </resources>
 
 
